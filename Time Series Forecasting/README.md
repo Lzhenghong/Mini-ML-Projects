@@ -18,11 +18,11 @@ Description:
 - Plot predictions and their 95% confidence interval bands
 
 Results:
-- Model 1 (569)
-- Model 2 (606)
-- Model 3 (1238)
-- Model 4 (571)
-- Model 5 (595)
-- Model 6 (568)
-- Model 7 (572)
-- Model 8 (567)
+- 7/1 day Model (569)
+- 30/1 day Model (606)
+- 30/7 day Model (1238)
+- Convolutional 1D Model (571)
+- LSTM Model (595)
+- Multivariate Model (568)
+- N-BEATS Model (572)
+- Ensemble Model (567)
