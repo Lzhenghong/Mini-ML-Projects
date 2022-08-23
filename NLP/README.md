@@ -1,5 +1,5 @@
 Summary:
-Sentiment analysis to classify texts from medical journal abstracts into the following categories (objective, background, method, results, conclusion)
+Text classification of medical journal abstracts into the following categories (objective, background, method, results, conclusion)
 
 Dataset:
 20,000 lines of text from https://github.com/Franck-Dernoncourt/pubmed-rct
